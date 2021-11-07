@@ -24,7 +24,7 @@ ExchangeRate-API is helping people for getting currency conversion data by API s
 - First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
 - You're done! Enjoy the currency converter.
-- You also can use currency converter online by using this <a href="https://mdrakibulislam-zero.github.io/WebCurrencyConverter/" > link</a>.
+- You also can use the currency converter online by using this <a href="https://mdrakibulislam-zero.github.io/WebCurrencyConverter/" > link</a>.
 
 
 ## Tutorial:
