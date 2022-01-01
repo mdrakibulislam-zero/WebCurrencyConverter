@@ -1,5 +1,5 @@
 ## Web Currency Converter:
-This is a simple real time currency converter based on Web which made with HTML, CSS and JavaScript. It's able to convert 168 countries currency real time.
+This is a simple currency converter based on Web which made with HTML, CSS and JavaScript. It's able to convert 168 countries currency real time.
 
 
 ## Outcome:
